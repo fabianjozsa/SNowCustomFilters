@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Dashboard Header</name>
+        <static_content><![CDATA[<div style="text-align: center; width: 100%; height: 95%; background-color: #8bb3a2; position: relative; display: inline-block;"><span style="font-size: 22pt; color: white;"><strong>CreatorCon Custom Filters</strong></span></div>
+<p> </p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:53:53</sys_created_on>
+        <sys_id>f0fed375db113300a1c985184b961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Header</sys_name>
+        <sys_package display_value="My Custom Filters and Applications" source="x_354589_my_filter">5e7ed771db113300a1c985184b9619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom Filters and Applications">5e7ed771db113300a1c985184b9619fb</sys_scope>
+        <sys_update_name>content_block_static_f0fed375db113300a1c985184b961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:53:53</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=f0fed375db113300a1c985184b961959"/>
+</record_update>
